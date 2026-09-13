@@ -1,10 +1,13 @@
-# bnn_project
-RTL implementation of a Binary Neural Network (BNN) accelerator featuring MCP, depthwise, pointwise, and fully connected layers.
 # BNN Accelerator RTL
 
 SystemVerilog RTL implementation of a Binary Neural Network (BNN) accelerator.
 
 The architecture includes binary computation blocks such as MCP, Depthwise Convolution, Pointwise Convolution, and Fully Connected layers.
+
+## Demo Video
+
+https://youtu.be/yjFJClScT_E?si=Cu_fumCJRkjND2Jz
+
 
 ## Architecture
 
